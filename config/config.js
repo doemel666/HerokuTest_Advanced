@@ -1,8 +1,8 @@
 //var url = 'mongodb://localhost:27017/store';
 
-//mongodb://clbokea:1234@ds053964.mlab.com:53964/store_2
+//mongodb://<dbuser>:<dbpassword>@ds127428.mlab.com:27428/herukoadvanced
 
 module.exports = {
-    mongodb : 'mongodb://localhost:27017/store'
+    mongodb : 'mongodb://doemel666:nik123456@ds127428.mlab.com:27428/herukoadvanced'
 }
 
